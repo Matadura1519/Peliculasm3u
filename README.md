@@ -1,6 +1,3 @@
-# Peliculasm3u
-
-Disfruten Perroooooooos!!
 
 #EXTM3U
 
