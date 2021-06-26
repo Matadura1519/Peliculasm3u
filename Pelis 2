@@ -1,0 +1,51 @@
+EXTM3U
+
+#EXTINF:-0,  tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg", Luca
+https://archive.org/download/luca-2021_20210625/Luca%20%282021%29.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Of7GljfIX9M37EO8LELp-COb9PKU9Rbyg&usqp=CAU",  El Conjuro 3
+https://archive.org/download/3l-c-0njur-0-3-2021/3l%20C0njur0%203%202021.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPCA80xhlYRLGkCmNGX-ABu3wa-lQxoD0KA&usqp=CAU", Cruella
+https://archive.org/download/3l-c-0njur-0-3-2021/Cruel4.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsX7aL_tItK57eXB75_zCOia7z1TeGlhdqyQ&usqp=CAU", Mortal Combat
+https://archive.org/download/mk021-b/mk021-b.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqswQzg9CjgCDEtiLDw_G0Gexq6ivg3A_tA&usqp=CAU", Godzilla vs Kong
+https://archive.org/download/g-0dz-1ll-4-vs-k-0ng-l-4-t-1-n/g0dz1ll4%20vs%20k0ng%20L4T1N.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCp-BqUenn8RJ74XLHNba6TWtfiRdz2xKp_A&usqp=CAU", Monster Hunter
+https://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25203/-%2520%2520%2520%2520%2520%2520%2520%2520%2520Monster%2520Hunter%2520--%25202021%2520-%25205646%2520-%25202b.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwUxafIdI6z0SeshuWkAYsoS6wNq-irl1Cg&usqp=CAU", Raya
+https://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25203/Raya%2520y%2520el%2520%C3%9Altimo%2520Drag%C3%B3n%2520-%25202021.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqMJs-DlwOqSX4CAmT2CQ5BzMFXECAX1l-Q&usqp=CAU", Sin Remordimiento
+https://archive.org/download/presariocubasinre/presariocubasinre.mp4
+
+#EXTINF:-0,  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4l45zzKThL-6tv_3S-kTAWHQ9c_KLnr5yg&usqp=CAU", 2067
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/2067%20(2020).mp4
+
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O5QtY7ejX2M8eSTQcM9bo2tGlDr2XrXYOg&usqp=CAU", Asesino del Futuro
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Asesino.Del.Futuro.2012.mp4
+
+#EXTINF:-0,  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTP2AxwPWcmvh_kajxvW7Gap37M1-19RNXw&usqp=CAU", Avenger Endgame
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Copy%20of%20Avengers.Endgame.2019.mp4
+
+#EXTINF:-0, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuguqFdMYERzbCsBe0fHb96rlskMXeJsqIQ&usqp=CAU", Extraction
+http://201.172.61.81:85/peliculas/4K/*Extraction.2020NF.BDRIP.4K.mp4
+
+#EXTINF:-0,  tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/18/11/21/315675.jpg", Kong y la Isla  Calavera
+http://201.172.61.81:85/peliculas/4K/*Kong.La.Isla.Calavera.4K.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGiCvtPrJ3L6jsgGObo69WUqeVQ_ZcGusD3g&usqp=CAU", La Vieja Guardia
+http://201.172.61.81:85/peliculas/4K/*La.vieja.guardia.2020.4K.mp4
+
+#EXTINF:-0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoMVbEDnEuv4OHeqFNsQdCx2lsnX4Ifp6Rw&usqp=CAU", Bumblebee
+http://51.77.66.14/Bumblebee.2018.WEBDL.1080p.H264.mkv
+
+
+
+
