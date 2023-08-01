@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0 group-title="PELICULAS"  tvg-logo= "https://pics.filmaffinity.com/AIR-500673673-large.jpg", AIR
+#EXTINF:-0 group-title="PELICULAS"  tvg-logo= "https://labutacaweb.files.wordpress.com/2023/04/4e04af5a54e2-warner_air_cinecol_480x670.png?w=360",AIR
 https://tvinnov.online/PELICULAS%202023/AIR/AIR%20La%20historia%20detr%c3%a1s%20del%20logo.2023.WEB-DL.AMZN.1080p.Latino.mp4
 
 #EXTINF:-0 group-title="PELICULAS" tvg-logo= "https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg", Ant Man y la Avispa Quantumanía (2023)
@@ -21,7 +21,7 @@ https://tvinnov.online/PELICULAS%202023/L%c3%a9on%20The%20Professional/L%c3%a9on
 #EXTINF:-0 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_.jpg", American Snipper
 https://tvinnov.online/PEDIDO_CLIENTES/American_Sniper_2014_ESP.mp4
 
-#EXTINF:-0 group-title="PELICULAS" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/290533/290533_173x256.jpg", Contagio en Altamar
+#EXTINF:-0 group-title="PELICULAS" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/290533/290533_173x256.jpg",Contagio en Altamar
 https://tvinnov.online/Peliculas/CONTAGIO%20ALTA%20MAR%20LATINO.mp4
 
 #EXTINF:-0 group-title="PELICULAS" tvg-logo="https://pics.filmaffinity.com/Cleaner-725319470-mmed.jpghttps://pics.filmaffinity.com/Cleaner-725319470-mmed.jpg", Cleaner
