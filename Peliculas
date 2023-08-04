@@ -75,6 +75,300 @@ http://fina.dyndns.tv/Peliculas/The%20Maze%20runner.mkv
 #EXTINF:-0 group-title="PELICULAS" tvg-logo="https://static.wikia.nocookie.net/mazerunner/images/0/08/P%C3%B3ster_de_Prueba_de_Fuego.png/revision/latest?cb=20150519191652&path-prefix=es", Maze runner 2:Pruebas de Fuego
 http://fina.dyndns.tv/Peliculas/The%20Maze%20runner%202.mkv
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Ungrouped", EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nmas.com.mx/assets/Logo/logo.png" group-title="Ungrouped", N+
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Ungrouped", FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", TELEMAX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Ungrouped", EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nmas.com.mx/assets/Logo/logo.png" group-title="Ungrouped", N+
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Ungrouped", FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", A&E
+https://v3.playerlatino.live/stream/m3u8/1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", A3 SERIES
+https://v3.playerlatino.live/stream/m3u8/444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", ADN 40
+https://v3.playerlatino.live/stream/m3u8/447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AMC
+https://v3.playerlatino.live/stream/m3u8/183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", ANIMAL PLANET
+https://v3.playerlatino.live/stream/m3u8/633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", ANTENA TRES
+https://v3.playerlatino.live/stream/m3u8/298
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AXN
+https://v3.playerlatino.live/stream/m3u8/713
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AXN MOVIES
+https://v3.playerlatino.live/stream/m3u8/714
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA CORAZON
+https://v3.playerlatino.live/stream/m3u8/166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", AZTECA UNO
+https://v3.playerlatino.live/stream/m3u8/4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", BANDAMAX
+https://v3.playerlatino.live/stream/m3u8/8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LAS ESTRELLAS
+https://v3.playerlatino.live/stream/m3u8/736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", CARTOONITO
+https://v3.playerlatino.live/stream/m3u8/11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/696
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/687
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/694
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", CINE LATINO
+https://v3.playerlatino.live/stream/m3u8/295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/689
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", CINECANAL
+https://v3.playerlatino.live/stream/m3u8/738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", CINEMAX
+https://v3.playerlatino.live/stream/m3u8/739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", COMEDY CENTRAL
+https://v3.playerlatino.live/stream/m3u8/135
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", BABY FIRST
+https://v3.playerlatino.live/stream/m3u8/21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DHE
+https://v3.playerlatino.live/stream/m3u8/844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY WORLD
+https://v3.playerlatino.live/stream/m3u8/23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY KIDS
+https://v3.playerlatino.live/stream/m3u8/25
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY SCIENCE
+https://v3.playerlatino.live/stream/m3u8/26
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY TURBO
+https://v3.playerlatino.live/stream/m3u8/28
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISNEY CHANNEL
+https://v3.playerlatino.live/stream/m3u8/29
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISNEY JUNIOR
+https://v3.playerlatino.live/stream/m3u8/30
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", E!
+https://v3.playerlatino.live/stream/m3u8/33
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", GOURMET
+https://v3.playerlatino.live/stream/m3u8/157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", ELNUEVE
+https://v3.playerlatino.live/stream/m3u8/772
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", GLITZ
+https://v3.playerlatino.live/stream/m3u8/158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", GOLDEN EDGE
+https://v3.playerlatino.live/stream/m3u8/57
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", H2
+https://v3.playerlatino.live/stream/m3u8/61
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/62
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", HISTORY
+https://v3.playerlatino.live/stream/m3u8/67
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", H TV
+https://v3.playerlatino.live/stream/m3u8/66
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", IMAGEN TV
+https://v3.playerlatino.live/stream/m3u8/341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", DISCOVERY ID
+https://v3.playerlatino.live/stream/m3u8/68
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", LIFETIME
+https://v3.playerlatino.live/stream/m3u8/152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", MTV
+https://v3.playerlatino.live/stream/m3u8/69
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", NAT GEO
+https://v3.playerlatino.live/stream/m3u8/76
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", NAT GEO MUNDO
+https://v3.playerlatino.live/stream/m3u8/77
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", PARAMOUNT
+https://v3.playerlatino.live/stream/m3u8/200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", RETRO
+https://v3.playerlatino.live/stream/m3u8/692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/682
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/684
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", STUDIO UNIVERSAL
+https://v3.playerlatino.live/stream/m3u8/84
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ungrouped", #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/85
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", EVENTOS TyC PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", AFIZZIONADOS
+https://v3.playerlatino.live/stream/m3u8/878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TNT SPORTS
+https://v3.playerlatino.live/stream/m3u8/318
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", CLARO SPORTS 2
+https://v3.playerlatino.live/stream/m3u8/328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECT TV SPORTS 2
+https://v3.playerlatino.live/stream/m3u8/667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2
+https://v3.playerlatino.live/stream/m3u8/35
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN AR
+https://v3.playerlatino.live/stream/m3u8/531
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
+https://v3.playerlatino.live/stream/m3u8/530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN EXTRA
+https://v3.playerlatino.live/stream/m3u8/37
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORT PREMIUM
+https://v3.playerlatino.live/stream/m3u8/192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2
+https://v3.playerlatino.live/stream/m3u8/53
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 3
+https://v3.playerlatino.live/stream/m3u8/54
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS
+https://v3.playerlatino.live/stream/m3u8/527
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS AR
+https://v3.playerlatino.live/stream/m3u8/402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FOX SPORTS 2 AR
+https://v3.playerlatino.live/stream/m3u8/410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", MOVISTAR LIGA DE CAMPEONES
+https://v3.playerlatino.live/stream/m3u8/890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", MOVISTAR DEPORTES
+https://v3.playerlatino.live/stream/m3u8/366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN
+https://v3.playerlatino.live/stream/m3u8/698
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", TUDN USA
+https://v3.playerlatino.live/stream/m3u8/99
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORT +
+https://v3.playerlatino.live/stream/m3u8/292
+
 
 
 
