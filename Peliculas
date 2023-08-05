@@ -138,13 +138,13 @@ https://newyorkstream.ddns.net/iptv/peliculas/La.Ciudad.Dorada.2018.1080p-dual-l
 #EXTINF:-0 group-title="PELICULAS" tvg-logo="https://m.media-amazon.com/images/I/81QwS6Y+kwL.jpg",Jurassic World: Dominion
 https://newyorkstream.ddns.net/iptv/peliculas/Jurassic.World.Dominion.2022.1080P.Lat.Cinecalidad.dev.mp4
 
-#EXTINF:-1 tv-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", AE Mundo
+#EXTINF:-1 tv-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es",AE Mundo
 http://45.65.137.206:8000/play/a0gd/index.m3u8
 
-#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png", Animal Planet
+#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",Animal Planet
 http://45.65.137.206:8000/play/a0g6/index.m3u8
 
-#EXTINF:-1  tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20100602093349", BabyFirst
+#EXTINF:-1  tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20100602093349",BabyFirst
 http://45.65.137.206:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Canal de las  Estrellas
